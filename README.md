@@ -6,3 +6,6 @@ the program is welcomes the user and asks the user what they would like to do ba
 to run and compile: just press the run button, and add a receipe. the entire program should be able to run
 
 github repository: https://github.com/IIEWFL/prog6221-part-1-ST10263888.git
+
+06 May changes:
+Have changed the arrays to arraylists

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/prog6221-part-1-ST10263888/st10263888_PROG_POE.csproj": {}
+    "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/ProgPart2/st10263888_PROG_POE.csproj": {}
   },
   "projects": {
-    "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/prog6221-part-1-ST10263888/st10263888_PROG_POE.csproj": {
+    "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/ProgPart2/st10263888_PROG_POE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/prog6221-part-1-ST10263888/st10263888_PROG_POE.csproj",
+        "projectUniqueName": "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/ProgPart2/st10263888_PROG_POE.csproj",
         "projectName": "st10263888_PROG_POE",
-        "projectPath": "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/prog6221-part-1-ST10263888/st10263888_PROG_POE.csproj",
+        "projectPath": "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/ProgPart2/st10263888_PROG_POE.csproj",
         "packagesPath": "/Users/nandimsimanga/.nuget/packages/",
-        "outputPath": "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/prog6221-part-1-ST10263888/obj/",
+        "outputPath": "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/ProgPart2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nandimsimanga/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
         }
       }
     }

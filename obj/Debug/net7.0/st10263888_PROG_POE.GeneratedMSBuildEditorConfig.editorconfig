@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = st10263888_PROG_POE
-build_property.ProjectDir = /Users/nandimsimanga/Desktop/ST10263888_CLDV6211/prog6221-part-1-ST10263888/
+build_property.ProjectDir = /Users/nandimsimanga/Desktop/ST10263888_CLDV6211/ProgPart2/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
