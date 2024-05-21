@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "I5MjJxTiPEHzP2alnj7diQI0zUjBcONxUGrX0l+k+/J14j6i8fnGlSWZXorRYiq5e7ZyIuAhgdIOGdIzOmCaDg==",
+  "dgSpecHash": "DOTlusMVuVw=",
   "success": true,
-  "projectFilePath": "/Users/nandimsimanga/Desktop/ST10263888_CLDV6211/ProgPart2/st10263888_PROG_POE.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/nandimsimanga/Documents/GitHub/ProgPart2/st10263888_PROG_POE.csproj",
+  "expectedPackageFiles": [
+    "/Users/nandimsimanga/.nuget/packages/microsoft.netcore.app.ref/7.0.19/microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/nandimsimanga/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.19/microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/nandimsimanga/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.19/microsoft.netcore.app.host.osx-arm64.7.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
